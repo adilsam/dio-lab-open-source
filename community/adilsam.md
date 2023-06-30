@@ -20,7 +20,7 @@ Meus hobbies são pedalar e correr. Sou um leitor quase compulsivo. E gosto de f
 
 
 
-## Indo me aprofundar nesses e em entre outros temas
+## Indo me aprofundar nesses e em entre outros assuntos
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
